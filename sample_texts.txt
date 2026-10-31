@@ -1,0 +1,18 @@
+SINGLE SENTENCE (turn OFF "Treat each line as a separate text")
+Machine learning models convert words into numerical vectors called embeddings.
+
+RARE WORDS (sub-word ## splitting)
+Unbelievably, the neuroscientist's electroencephalography results were uninterpretable.
+
+SAME WORD, DIFFERENT MEANING (turn OFF the separate-lines option)
+He sat on the river bank. She deposited money at the bank.
+
+SEVERAL TEXTS (turn ON the separate-lines option)
+The cat sat on the mat.
+A kitten was resting on the rug.
+Stock markets fell sharply on Monday.
+Investors sold shares amid rising inflation fears.
+Python is a popular programming language for data science.
+
+NUMBERS AND PUNCTUATION
+Dr. Smith's flight AI-203 landed at 6:45 PM on 12/03/2026, costing $1,250.75!
